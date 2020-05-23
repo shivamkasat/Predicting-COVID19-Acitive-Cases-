@@ -150,12 +150,9 @@ available, use an alcohol-based hand sanitizer.
 
 #### Conclusion
 From the above mentioned graphs we can conclude that according to our linear regression model
-    * the peak on pandemic in India may come after almost 110 days.
-    * the peak on pandemic in Spain may come between 95-100 days and will finished after 105
-    days.
-    * the peak on pandemic in South Korea may come between 98-102 days and will finished after
-    110 days.
-    * the peak on pandemic in state India, namedKerala may come between 85-90 days and will
-    finished after 110 days
+   * the peak on pandemic in India may come after almost 110 days.
+   * the peak on pandemic in Spain may come between 95-100 days and will finished after 105 days.
+   * the peak on pandemic in South Korea may come between 98-102 days and will finished after 110 days.
+   * the peak on pandemic in state India, namedKerala may come between 85-90 days and will finished after 110 days
    
 
