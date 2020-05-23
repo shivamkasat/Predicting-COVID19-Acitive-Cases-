@@ -68,9 +68,8 @@ We have used multiple dataset for our analysis and prediction task, which were t
 We can see that the global curve shows rich fine structure, but these numbers are strongly affected by the vector zero country, China.  Given that COVID-19 started there, during the initial expansion of the virus there was no reliable information about the real infected cases.
   
   * Both Italy and Spain are experiencing the larger increase in COVID-19 positives in Europe. At the same time, UK is a unique case        given that it’s one of the most important countries in Europe but recently has left the European Union. The fourth country we have      taken is Singapore, since it is closer to China and its socio-economic conditions is different from the other three countries.
-
-    ![Analysis output of different countries](https://github.com/shivamkasat/Predicting-COVID19-Active-             Cases-/blob/master/ProjectDetails/corona_3_countries.png?raw=true)
-
+    
+    ![Analysis output of different countries](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_3_countries.png?raw=true)
     ![Comparative Analysis of different countries](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_4_countries.png?raw=true)
 
 * ###### Italy
