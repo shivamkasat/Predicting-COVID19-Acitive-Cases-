@@ -124,5 +124,17 @@ to data.
     6. Recompute lags
     7. Repeat from step 4 to step 6 for all remaining days
 
-
+#### Predictions
+   * ###### India
+   ![Prediction on India](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_6_india.png)
+   
+   * ###### Spain
+   ![Prediction on Spain](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona__5_spain.png)
+    
+   * ##### South Korea
+   ![Prediction on South Korea](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_7_southkorea.png)
+   
+   * ###### Kerela
+   ![Prediction on Kerela](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_8_kerala.png)
+   
 
