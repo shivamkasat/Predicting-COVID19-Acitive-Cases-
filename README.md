@@ -137,4 +137,25 @@ to data.
    * ###### Kerela
    ![Prediction on Kerela](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_8_kerala.png)
    
+#### Prevention
+To avoid the critical situation people are suggested to do following things
+   * Avoid contact with people who are sick.
+   * Avoid touching your eyes, nose, and mouth.
+   * Stay home when you are sick.
+   * Cover your cough or sneeze with a tissue, then throw the tissue in the trash.
+   * Clean and disinfect frequently touched objects and surfaces using a regular household
+   * Wash your hands often with soap and water, especially after going to the bathroom; before
+eating; and after blowing your nose, coughing, or sneezing. If soap and water are not readily
+available, use an alcohol-based hand sanitizer.
+
+#### Conclusion
+From the above mentioned graphs we can conclude that according to our linear regression model
+    * the peak on pandemic in India may come after almost 110 days.
+    * the peak on pandemic in Spain may come between 95-100 days and will finished after 105
+    days.
+    * the peak on pandemic in South Korea may come between 98-102 days and will finished after
+    110 days.
+    * the peak on pandemic in state India, namedKerala may come between 85-90 days and will
+    finished after 110 days
+   
 
