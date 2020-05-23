@@ -86,4 +86,13 @@ We can see that the global curve shows rich fine structure, but these numbers ar
     Singapore is relatively isolated given that is an island, and the number of international travels is lower than for the other 3         countries. The number of cases is still very low (1000)
     with 0.2% of population being infected.
 
+#### EDA on COVID-19 INDIA dataset
+    
+   * The following table shows the details like total number of confirmed cases, number of recovered
+    cases, deaths, active cases, mortality rate for all the states/union territories having active cases
+    till date 4th May, 2020.
+    ![state Analysis](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_10_states.png?raw=true)
+    
+   * Top 10 most affected states of India with confirmed number of cases till date 4th May, 2020.
+    ![Top 10 States](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_11_topstates.png?raw=true)
 
