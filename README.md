@@ -96,3 +96,33 @@ We can see that the global curve shows rich fine structure, but these numbers ar
    * Top 10 most affected states of India with confirmed number of cases till date 4th May, 2020.
     ![Top 10 States](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_11_topstates.png?raw=true)
 
+#### Prediction
+##### Preprocessing data
+   * Join Data - Join train/test to facilitate data transformations
+   * Filter Dates - Remove ConfirmedCases and Fatalities post 2020-03-12. Create additional date columns
+   * Missing values - Analyze and fix missing values
+##### Compute lags and trends
+   * ###### Lag
+   Lags are a way to compute the previous value of a column, so that the lag 1 for ConfirmedCases would inform the this column from the previous day. The lag 3 of a feature X is : <br />
+    X_{lag_3}(t) = X(t − 3)
+   * ###### Trend
+   Transformig a column into its trend gives the natural tendency of this column, which is different from the raw value. The definition of trend we applied is: <br />
+   Trend_x = \frac{X(t) - X(t - 1)}{X(t - 1)} <br />
+   The backlog of lags we applied is 14 days, while for trends is 7 days.
+
+##### Add country details
+Variables like the total population of a country, the average age of citizens or the fraction of people
+living in cities strongly impact on the COVID-19 transmission behavior. so, we added those details
+to data.
+
+#### Linear regression model for prediction
+    1. Features. Select features
+    2. Dates. Filter train data from 2020-03-01 to 2020-03-20
+    3. Begin with the train dataset, with all cases and lags reported
+    4. Forecast only the following day, through the Linear Regression
+    5. Set the new prediction as a confirmed case
+    6. Recompute lags
+    7. Repeat from step 4 to step 6 for all remaining days
+
+
+
