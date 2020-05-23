@@ -59,14 +59,32 @@ We have used multiple dataset for our analysis and prediction task, which were t
     * Recovered - Cumulative number of recovered cases till that date
 #### Exploratory Data Analysis (EDA)
  ##### EDA on COVID19 GLOBAL Forecast dataset
- The dataset covers 163 countries and almost 2 full months from 2020, which is enough data toget some clues about the pandemic. We will see a few plots of the worldwide tendency to see
-          if we can extract some insights: <br />   
+ The dataset covers 163 countries and almost 2 full months from 2020, which is enough data toget some clues about the pandemic. We will see a few plots of the worldwide tendency to see if we can extract some insights: <br />   
  
  ![Global Conifirmed Cases](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_2_global_cases.png?raw=true)
 
 #### Observation
- We can see that the global curve shows rich fine structure, but these numbers are strongly affected by the vector zero country, China. Given that COVID-19 started there, during the initial expansion of the virus there was no reliable information about the real infected cases.
-  * Both Italy and Spain are experiencing the larger increase in COVID-19 positives in Europe. At the same time, UK is a unique case given that it’s one of the most important countries 
-    in Europe but recently has left the European Union. The fourth country we have taken is
-    Singapore, since it is closer to China and its socio-economic conditions is different from the
-other three countries.
+
+We can see that the global curve shows rich fine structure, but these numbers are strongly affected by the vector zero country, China.  Given that COVID-19 started there, during the initial expansion of the virus there was no reliable information about the real infected cases.
+  
+  * Both Italy and Spain are experiencing the larger increase in COVID-19 positives in Europe. At the same time, UK is a unique case        given that it’s one of the most important countries in Europe but recently has left the European Union. The fourth country we have      taken is Singapore, since it is closer to China and its socio-economic conditions is different from the other three countries.
+
+    ![Analysis output of different countries](https://github.com/shivamkasat/Predicting-COVID19-Active-             Cases-/blob/master/ProjectDetails/corona_3_countries.png?raw=true)
+
+    ![Comparative Analysis of different countries](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_4_countries.png?raw=true)
+
+* ###### Italy
+    With almost 120,000 confirmed cases, Italy shows one of the most alarming scenarios of COVID-19 with more than 2% of population has     been infected.
+
+* ###### Spain
+    Spain has the same number of cumulative infected cases as Italy, near 120,000. However, Spain’s total population is lower (around 42     millions) and hence the percentage of
+    population that has been infected rises up to 3%.
+
+* ###### United Kingdom
+    Despite not being very far from them, the UK shows less cases. The number of cases is around 40.000, this is, a 0.6% of the total       population.
+
+* ###### Singapore
+    Singapore is relatively isolated given that is an island, and the number of international travels is lower than for the other 3         countries. The number of cases is still very low (1000)
+    with 0.2% of population being infected.
+
+
