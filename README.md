@@ -130,9 +130,6 @@ to data.
    
    * ###### Spain
    ![Prediction on Spain](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona__5_spain.png)
-    
-   * ##### South Korea
-   ![Prediction on South Korea](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_7_southkorea.png)
    
    * ###### Rajasthan
    ![Prediction on Kerela](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/rajasthan.png)
