@@ -134,8 +134,11 @@ to data.
    * ##### South Korea
    ![Prediction on South Korea](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_7_southkorea.png)
    
-   * ###### Kerela
-   ![Prediction on Kerela](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/corona_8_kerala.png)
+   * ###### Rajasthan
+   ![Prediction on Kerela](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/rajasthan.png)
+   
+   * ###### Delhi
+   ![Prediction on Delhi](https://github.com/shivamkasat/Predicting-COVID19-Active-Cases-/blob/master/ProjectDetails/delhi.png)
    
 #### Prevention
 To avoid the critical situation people are suggested to do following things
